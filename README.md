@@ -38,18 +38,15 @@ I am a **Network Engineering Student** with a strong passion for web development
 
 ## Stats
 
-<!-- GITHUB STATS & STREAK GRID -->
+<!-- GITHUB STATS & TOP LANGS (VERSI PALING STABIL) -->
 <p align="center">
-  <a href="https://github.com/Masmas99">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masmas99&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
-  </a>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Masmas99&show_icons=true&theme=dark&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Masmas99&show_icons=true&theme=dark&hide_border=false&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=dark&hide_border=false" height="165" alt="Top Languages" />
 </p>
 
-<!-- MOST USED LANGUAGES & ACTIVITY GRAPH -->
+<!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=dark&hide_border=false" height="165" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masmas99&theme=github-dark&hide_border=false" height="165" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masmas99&theme=github-dark&hide_border=false" width="100%" alt="Activity Graph" />
 </p>
 
 <!-- FOOTER WAVE -->
