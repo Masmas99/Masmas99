@@ -21,12 +21,16 @@
 
 ## Stats
 
-<!-- STREAK & GITHUB STATS (PUNYA MIRROR BEBAS LIMIT) -->
 <p align="center">
+
   <a href="https://github.com/Masmas99">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masmas99&theme=dark" height="150" alt="GitHub Streak" />
+
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masmas99&theme=synthwave&hide_border=false" height="150" alt="GitHub Streak" />
+
   </a>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Masmas99&show_icons=true&theme=dark&count_private=true" height="150" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Masmas99&show_icons=true&theme=synthwave&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
+
 </p>
 
 <!-- MOST USED LANGUAGES & ACTIVITY GRAPH -->
