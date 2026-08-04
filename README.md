@@ -30,7 +30,7 @@ I am a **Network Engineering Student** with a strong passion for web development
 
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="fot.png" width="160" style="border-radius: 12px;" alt="Mas Hudi Profile" />
+      <img src="fotooo.jpg" width="160" style="border-radius: 12px;" alt="Mas Hudi Profile" />
     </td>
   </tr>
 </table>
