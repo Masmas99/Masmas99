@@ -1,11 +1,11 @@
-<!-- BANNER UTAMA -->
+<!-- BANNER UTAMA (Background Putih Clean & Teks Biru Modern) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=Mas%20Hudi&fontSize=50&fontColor=58a6ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f8fafc,100:e2e8f0&height=180&section=header&text=Mas%20Hudi&fontSize=50&fontColor=1e293b" width="100%" />
 </p>
 
-<!-- EFEK TYPING -->
+<!-- EFEK TYPING (Teks Warna Hitam / Biru Gelap Kontras) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Network+Engineering+Student;%3C%2F%3E+Laravel+%26+React+Native+Developer;%3C%2F%3E+Exploring+Cloud+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Network+Engineering+Student;%3C%2F%3E+Laravel+%26+React+Native+Developer;%3C%2F%3E+Exploring+Cloud+%26+Automation" alt="Typing SVG" />
 </p>
 
 <!-- FOTO PROFIL (Ganti link URL di src dengan foto kamu) -->
