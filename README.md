@@ -38,21 +38,21 @@ I am a **Network Engineering Student** with a strong passion for web development
 
 ## Stats
 
-<!-- STREAK STATS & GITHUB STATS GRID (SERVER MIRROR CELERIS) -->
+<!-- STREAK & GITHUB STATS (PUNYA MIRROR BEBAS LIMIT) -->
 <p align="center">
   <a href="https://github.com/Masmas99">
-    <img src="https://github-readme-streak-stats-celeris.vercel.app/?user=Masmas99&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masmas99&theme=dark" height="150" alt="GitHub Streak" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Masmas99&show_icons=true&theme=dark&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Masmas99&show_icons=true&theme=dark&count_private=true" height="150" alt="GitHub Stats" />
 </p>
 
 <!-- MOST USED LANGUAGES & ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=dark&hide_border=false" height="165" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masmas99&theme=github-dark&hide_border=false" height="165" alt="Activity Graph" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=dark" height="165" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masmas99&theme=github-dark" height="165" alt="Activity Graph" />
 </p>
 
 <!-- FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:18181b,100:3f3f46&height=100&section=footer" width="100%" />
-</p>
+</p><img width="1187" height="460" alt="image" src="https://github.com/user-attachments/assets/e4f349b5-3fea-4c0a-8c04-cf99a92571ba" />
