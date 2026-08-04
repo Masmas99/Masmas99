@@ -1,6 +1,11 @@
-<!-- HEADER BANNER: CYBER GLOW -->
+<!-- BANNER UTAMA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cyber&color=0:0f172a,50:1e1b4b,100:311b92&height=220&section=header&text=Mas%20Hudi%20👋&fontSize=50&fontColor=00f2fe&stroke=4FACFE&strokeWidth=1&desc=Network%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20%26%20Mobile%20Dev&descSize=18&descAlignY=68&descColor=e2e8f0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=Mas%20Hudi&fontSize=50&fontColor=58a6ff" width="100%" />
+</p>
+
+<!-- EFEK TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Network+Engineering+Student;%3C%2F%3E+Laravel+%26+React+Native+Developer;%3C%2F%3E+Exploring+Cloud+%26+Automation" alt="Typing SVG" />
 </p>
 
 <!-- FOTO PROFIL (Ganti link URL di src dengan foto kamu) -->
