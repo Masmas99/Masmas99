@@ -1,37 +1,36 @@
-<!-- BANNER UTAMA (Soft Gradient Clean White) -->
+<!-- TERMINAL HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:f1f5f9,100:e2e8f0&height=220&section=header&text=Mas%20Hudi&fontSize=52&fontColor=0f172a&stroke=0284C7&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&text=mashudi@ubuntu-server:~%24&fontSize=32&fontColor=4ade80&stroke=334155&strokeWidth=2" width="100%" />
 </p>
 
-<!-- FOTO PROFIL DENGAN EFEK ELEGAN -->
-<p align="center" style="margin-top: -80px;">
-  <img src="https://github.com/Masmas99.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 10px 25px rgba(0,0,0,0.1);" alt="Mas Hudi Profile" />
+<!-- FOTO PROFIL BULAT DENGAN EFEK TERMINAL BORDER -->
+<p align="center" style="margin-top: -65px;">
+  <img src="https://github.com/Masmas99.png" width="140" height="140" style="border-radius: 50%; border: 3px solid #4ade80; box-shadow: 0 0 15px rgba(74, 222, 128, 0.4);" alt="Mas Hudi Profile" />
 </p>
 
-<!-- EFEK TYPING TEXT -->
+<!-- TYPING ANIMATION ALA COMMAND PROMPT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=500&height=40&lines=%3C%2F%3E+Network+Engineering+Student;%3C%2F%3E+Laravel+%26+React+Native+Developer;%3C%2F%3E+Exploring+Cloud+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4ADE80&center=true&vCenter=true&width=550&height=40&lines=mashudi%40linux%3A~%24+whoami;Network+Engineering+Student;mashudi%40linux%3A~%24+cat+stack.txt;Laravel+12+%7C+React+Native+%7C+Python+%7C+Linux" alt="Terminal Typing" />
 </p>
 
-<!-- STATS BADGES -->
+<!-- TERMINAL STATUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Network_%26_Full--Stack-0284c7?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Masmas99&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/badge/OS-Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Masmas99&label=TTY_VIEWS&color=22c55e&style=for-the-badge" alt="Views" />
   <a href="https://github.com/Masmas99">
-    <img src="https://img.shields.io/github/followers/Masmas99?label=Followers&style=for-the-badge&color=38bdf8" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Masmas99?label=NET_FOLLOWERS&style=for-the-badge&color=16a34a" alt="Followers" />
   </a>
-</p>
-
-<p align="center">
-  <i>"Passionate about Network Engineering, Cloud Infrastructure, and Full-Stack Development."</i>
 </p>
 
 ---
 
-## 📌 About Me
+## 🐧 `fastfetch` // System Information
 
-```text
-  🎓 Education  : Student of Network Engineering (Teknik Jaringan)
-  💻 Web & App  : Specialized in Laravel 12 & React Native
-  🌐 Tech Focus : Routing & Switching, Linux Administration, Cloud Infrastructure
-  📫 Contact    : masamasmas88@gmail.com
+```bash
+       _.---._         USER     : mashudi
+    .-'         '-.    HOST     : ubuntu-server-x86_64
+   /               \   ROLE     : Network Engineering Student & Full-Stack Dev
+  |   👔       💻   |  FOCUS    : Web Dev, Mobile Apps, Cloud & Networking
+  |   \___.-.___/   |  MAIL     : masamasmas88@gmail.com
+   \  /         \  /   SHELL    : /bin/bash - 5.2.15
+    '-._________.-'    STATUS   : ACTIVE [Running Laravel 12 & React Native]
