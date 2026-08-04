@@ -1,32 +1,59 @@
-# Hi, I'm Mas Hudi 👋 💻
-
-<!-- EFEK TYPING STABIL -->
+<!-- BANNER HEADER RETROWAVE / NEON DARK -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0284C7&center=true&vCenter=true&width=600&height=70&lines=MAS+HUDI;Network+Engineering+Student;Web+%26+Mobile+Developer" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090A0F,50:1B1435,100:2A0845&height=220&section=header&text=MAS%20HUDI&fontSize=48&fontColor=ffffff&stroke=A100FF&strokeWidth=2&desc=NETWORK%20ENGINEERING%20%7C%20WEB%20%26%20MOBILE%20DEV&descSize=16&descAlignY=68&descColor=00E5FF" width="100%" alt="Header Banner" />
 </p>
 
-I'm a **Network Engineering student** and **Full-Stack Developer** who is passionate about building modern web apps, mobile solutions, and exploring cloud infrastructure. Some technologies I enjoy working with include **PHP (Laravel 12)**, **JavaScript (React Native)**, **Python**, and **Linux Networking**. I'm dedicated to learning best practices in software engineering and network administration.
+## Connect with me. 🤠
+
+<p align="left">
+  <a href="mailto:masamasmas88@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Masmas99">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<table border="0">
+  <tr>
+    <td width="75%" valign="top">
+
+## About Me. 😋
+
+* 🎓 **Network Engineering Student** (*Teknik Jaringan*).
+* 💻 **Code 💻 ➡️ Eat 🍔 ➡️ Sleep 💤 ➡️ Repeat 🔄.**
+* 🌐 **Full-Stack & Mobile Developer** (Laravel 12, React Native, Python).
+* ⚙️ **Focusing on** Cloud Infrastructure, Networking, & Linux Administration.
+* ⚡ **FUN Fact:** Enjoy building side projects and exploring server configs.
+* 🤝 **Looking to collaborate on:** Web Apps, Networking & Mobile Projects.
+* 📬 **How to reach me:** [masamasmas88@gmail.com](mailto:masamasmas88@gmail.com)
+
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://github.com/Masmas99.png" width="160" style="border-radius: 50%;" alt="Mas Hudi Avatar" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Find me around the web 🌎:
+## Stats
 
-* 💼 **GitHub**: [github.com/Masmas99](https://github.com/Masmas99)
-* ✉️ **Email**: [masamasmas88@gmail.com](mailto:masamasmas88@gmail.com)
-
----
-
-### 💻 Technologies & Tools
-
-- **Languages:** PHP, Python, JavaScript, HTML5, CSS3
-- **Frameworks & Mobile:** Laravel 12, React Native
-- **Database & Networking:** MySQL, Linux (Ubuntu), Cloud & Infrastructure Basics
-
----
-
-### 📊 GitHub Stats
-
+<!-- STREAK STATS & GITHUB STATS GRID -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Masmas99&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=default&hide_border=true" height="150" />
+  <a href="https://github.com/Masmas99">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masmas99&theme=synthwave&hide_border=false" height="150" alt="GitHub Streak" />
+  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Masmas99&show_icons=true&theme=synthwave&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
+</p>
+
+<!-- MOST USED LANGUAGES & ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=synthwave&hide_border=false" height="165" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masmas99&theme=react-dark&hide_border=false" height="165" alt="Activity Graph" />
+</p>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1435,100:A100FF&height=100&section=footer" width="100%" />
 </p>
