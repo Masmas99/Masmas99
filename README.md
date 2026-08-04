@@ -1,8 +1,8 @@
-# Hi, I'm Mas Hudi 👋 👩‍💻
+# Hi, I'm Mas Hudi 👋 💻
 
-<!-- BANNER HEADER KUSTOM -->
+<!-- EFEK TYPING STABIL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f8fafc,50:f1f5f9,100:e2e8f0&height=200&section=header&text=MAS%20HUDI&fontSize=42&fontColor=1e293b&stroke=0284c7&strokeWidth=1&desc=network%20engineering%20student%2C%20web%20%26%20mobile%20developer&descSize=18&descAlignY=68&descColor=64748b" width="100%" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0284C7&center=true&vCenter=true&width=600&height=70&lines=MAS+HUDI;Network+Engineering+Student;Web+%26+Mobile+Developer" alt="Header Banner" />
 </p>
 
 I'm a **Network Engineering student** and **Full-Stack Developer** who is passionate about building modern web apps, mobile solutions, and exploring cloud infrastructure. Some technologies I enjoy working with include **PHP (Laravel 12)**, **JavaScript (React Native)**, **Python**, and **Linux Networking**. I'm dedicated to learning best practices in software engineering and network administration.
