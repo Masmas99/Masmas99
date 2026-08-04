@@ -1,36 +1,32 @@
-<!-- TERMINAL HEADER BANNER -->
+# Hi, I'm Mas Hudi 👋 👩‍💻
+
+<!-- BANNER HEADER KUSTOM -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&text=mashudi@ubuntu-server:~%24&fontSize=32&fontColor=4ade80&stroke=334155&strokeWidth=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f8fafc,50:f1f5f9,100:e2e8f0&height=200&section=header&text=MAS%20HUDI&fontSize=42&fontColor=1e293b&stroke=0284c7&strokeWidth=1&desc=network%20engineering%20student%2C%20web%20%26%20mobile%20developer&descSize=18&descAlignY=68&descColor=64748b" width="100%" alt="Header Banner" />
 </p>
 
-<!-- FOTO PROFIL BULAT DENGAN EFEK TERMINAL BORDER -->
-<p align="center" style="margin-top: -65px;">
-  <img src="https://github.com/Masmas99.png" width="140" height="140" style="border-radius: 50%; border: 3px solid #4ade80; box-shadow: 0 0 15px rgba(74, 222, 128, 0.4);" alt="Mas Hudi Profile" />
-</p>
-
-<!-- TYPING ANIMATION ALA COMMAND PROMPT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4ADE80&center=true&vCenter=true&width=550&height=40&lines=mashudi%40linux%3A~%24+whoami;Network+Engineering+Student;mashudi%40linux%3A~%24+cat+stack.txt;Laravel+12+%7C+React+Native+%7C+Python+%7C+Linux" alt="Terminal Typing" />
-</p>
-
-<!-- TERMINAL STATUS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Masmas99&label=TTY_VIEWS&color=22c55e&style=for-the-badge" alt="Views" />
-  <a href="https://github.com/Masmas99">
-    <img src="https://img.shields.io/github/followers/Masmas99?label=NET_FOLLOWERS&style=for-the-badge&color=16a34a" alt="Followers" />
-  </a>
-</p>
+I'm a **Network Engineering student** and **Full-Stack Developer** who is passionate about building modern web apps, mobile solutions, and exploring cloud infrastructure. Some technologies I enjoy working with include **PHP (Laravel 12)**, **JavaScript (React Native)**, **Python**, and **Linux Networking**. I'm dedicated to learning best practices in software engineering and network administration.
 
 ---
 
-## 🐧 `fastfetch` // System Information
+### Find me around the web 🌎:
 
-```bash
-       _.---._         USER     : mashudi
-    .-'         '-.    HOST     : ubuntu-server-x86_64
-   /               \   ROLE     : Network Engineering Student & Full-Stack Dev
-  |   👔       💻   |  FOCUS    : Web Dev, Mobile Apps, Cloud & Networking
-  |   \___.-.___/   |  MAIL     : masamasmas88@gmail.com
-   \  /         \  /   SHELL    : /bin/bash - 5.2.15
-    '-._________.-'    STATUS   : ACTIVE [Running Laravel 12 & React Native]
+* 💼 **GitHub**: [github.com/Masmas99](https://github.com/Masmas99)
+* ✉️ **Email**: [masamasmas88@gmail.com](mailto:masamasmas88@gmail.com)
+
+---
+
+### 💻 Technologies & Tools
+
+- **Languages:** PHP, Python, JavaScript, HTML5, CSS3
+- **Frameworks & Mobile:** Laravel 12, React Native
+- **Database & Networking:** MySQL, Linux (Ubuntu), Cloud & Infrastructure Basics
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Masmas99&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
