@@ -1,6 +1,6 @@
 <!-- BANNER HEADER RETROWAVE / NEON DARK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090A0F,50:1B1435,100:2A0845&height=220&section=header&text=MAS%20HUDI&fontSize=48&fontColor=ffffff&stroke=A100FF&strokeWidth=2&desc=NETWORK%20ENGINEERING%20%7C%20WEB%20%26%20MOBILE%20DEV&descSize=16&descAlignY=68&descColor=00E5FF" width="100%" alt="Header Banner" />
+  <img src="fot.png?type=rect&color=0:090A0F,50:1B1435,100:2A0845&height=220&section=header&text=MAS%20HUDI&fontSize=48&fontColor=ffffff&stroke=A100FF&strokeWidth=2&desc=NETWORK%20ENGINEERING%20%7C%20WEB%20%26%20MOBILE%20DEV&descSize=16&descAlignY=68&descColor=00E5FF" width="100%" alt="Header Banner" />
 </p>
 
 ## Connect with me. 🤠
