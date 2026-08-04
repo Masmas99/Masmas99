@@ -51,8 +51,3 @@ I am a **Network Engineering Student** with a strong passion for web development
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=dark" height="165" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masmas99&theme=github-dark" height="165" alt="Activity Graph" />
 </p>
-
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:18181b,100:3f3f46&height=100&section=footer" width="100%" />
-</p><img width="1187" height="460" alt="image" src="https://github.com/user-attachments/assets/e4f349b5-3fea-4c0a-8c04-cf99a92571ba" />
