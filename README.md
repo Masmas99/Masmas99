@@ -1,6 +1,6 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER: CYBER GLOW -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0052D4,4364F7,6FB1FC&height=180&section=header&text=Mas%20Hudi&fontSize=45&fontColor=ffffff&desc=Network%20Engineering%20Student%20%7C%20Developer&descSize=16&descAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cyber&color=0:0f172a,50:1e1b4b,100:311b92&height=220&section=header&text=Mas%20Hudi%20👋&fontSize=50&fontColor=00f2fe&stroke=4FACFE&strokeWidth=1&desc=Network%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20%26%20Mobile%20Dev&descSize=18&descAlignY=68&descColor=e2e8f0" width="100%" />
 </p>
 
 <!-- FOTO PROFIL (Ganti link URL di src dengan foto kamu) -->
