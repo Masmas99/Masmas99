@@ -1,4 +1,4 @@
-<!-- HEADER BANNER -->
+ <!-- HEADER BANNER -->
 <p align="center">
   <img src="fot.png" width="100%" alt="Header Banner" />
 </p>
@@ -35,28 +35,19 @@ I am a **Network Engineering Student** with a strong passion for web development
 </table>
 
 ---
-## 📊 Stats
 
+## Stats
+
+<!-- STREAK & GITHUB STATS (PUNYA MIRROR BEBAS LIMIT) -->
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Masmas99&theme=github-dark-blue&hide_border=true"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Masmas99&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    height="170"
-  />
+  <a href="https://github.com/Masmas99">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masmas99&theme=dark" height="150" alt="GitHub Streak" />
+  </a>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Masmas99&show_icons=true&theme=dark&count_private=true" height="150" alt="GitHub Stats" />
 </p>
 
+<!-- MOST USED LANGUAGES & ACTIVITY GRAPH -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Masmas99&theme=github-dark&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=dark" height="165" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masmas99&theme=github-dark" height="165" alt="Activity Graph" />
 </p>
