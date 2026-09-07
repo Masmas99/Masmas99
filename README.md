@@ -27,7 +27,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" src="fotooo.jpg" width="170" alt="Masmas Profile"/>
 
@@ -68,7 +68,7 @@ My interests sit at the intersection of **software development, networking, infr
 
 ---
 
-## 🛠️ What I Build
+## What I Build
 
 ```text
 ┌─────────────────────────────────────────────────────┐
