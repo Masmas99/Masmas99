@@ -76,9 +76,6 @@ My interests sit at the intersection of **software development, networking, infr
 │   WEB APPLICATIONS                                  │
 │   Laravel · PHP · MySQL · REST API                  │
 │                                                     │
-│   MOBILE APPLICATIONS                               │
-│   React Native · Android                            │
-│                                                     │
 │   NETWORK INFRASTRUCTURE                            │
 │   MikroTik · RouterOS · TCP/IP                      │
 │                                                     │
