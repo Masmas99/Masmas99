@@ -53,13 +53,13 @@ My interests sit at the intersection of **software development, networking, infr
 ###  Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,react,reactnative,python" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,react,python" />
 </p>
 
 ###  Networking & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,mysql" />
 </p>
 
 **Networking**
