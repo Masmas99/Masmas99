@@ -147,9 +147,6 @@ Food ordering system with QRIS payment integration and real-time payment confirm
   />
 </p>
 
----
-
----
 
 ## Current Focus
 
