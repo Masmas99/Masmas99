@@ -136,13 +136,13 @@ Food ordering system with QRIS payment integration and real-time payment confirm
 </p>
 
 ---
-## 📈 Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Masmas99&custom_title=Masmas99%20Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"
+    src="https://raw.githubusercontent.com/Masmas99/Masmas99/output/github-contribution-grid-snake-dark.svg"
     width="95%"
-    alt="Contribution Activity"
+    alt="GitHub Contribution Snake"
   />
 </p>
 
