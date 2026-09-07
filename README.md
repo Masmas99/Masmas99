@@ -149,6 +149,18 @@ Food ordering system with QRIS payment integration and real-time payment confirm
 
 ---
 
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api/wakatime?username=Masmas99&theme=github_dark&hide_border=true"
+    height="180"
+    alt="WakaTime Stats"
+  />
+</p>
+
+---
+
 ## Current Focus
 
 ```text
