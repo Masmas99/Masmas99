@@ -151,7 +151,9 @@ Food ordering system with QRIS payment integration and real-time payment confirm
 
 ## Contribution Activity
 
-[![Masmas99's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Masmas99&theme=github-dark&hide_border=true&radius=16)](https://github.com/Masmas99)
+<p align="center">
+  <img src="https://ghchart.roo.to/Masmas99" alt="Masmas99's GitHub Contribution Chart" width="100%"/>
+</p>
 
 ---
 
