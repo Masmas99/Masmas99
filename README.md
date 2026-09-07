@@ -153,9 +153,16 @@ Food ordering system with QRIS payment integration and real-time payment confirm
 
 <p align="center">
   <img
-    src="https://github-readme-stats-one-bice.vercel.app/api/wakatime?username=Masmas99&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Masmas99&repo=Masmas99&theme=github_dark&hide_border=true"
     height="180"
-    alt="WakaTime Stats"
+    alt="Profile Repository"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/GitHub%20Profile-Masmas99-blue?style=flat-square&logo=github&logoColor=white"
+    alt="GitHub Profile"
   />
 </p>
 
