@@ -147,24 +147,7 @@ Food ordering system with QRIS payment integration and real-time payment confirm
   />
 </p>
 
----
 
-## Contribution Activity
-
-<div align="center">
-
-### 📊 Activity Overview
-
-| Metric | Value |
-|--------|-------|
-| 🐙 GitHub Profile | [@Masmas99](https://github.com/Masmas99) |
-| 📈 Repository | [Masmas99/Masmas99](https://github.com/Masmas99/Masmas99) |
-| 🌟 Focus Areas | Web Dev · Mobile · Networking |
-| 💻 Active Languages | PHP, JavaScript, Python |
-
-</div>
-
----
 
 ## Current Focus
 
