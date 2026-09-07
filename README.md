@@ -35,22 +35,22 @@ I'm a **Network Engineering student** who enjoys turning ideas into real-world d
 
 My interests sit at the intersection of **software development, networking, infrastructure, and automation**.
 
-* 🎓 **Education:** Network Engineering / Teknik Jaringan
-* 💻 **Development:** Full-Stack Web & Mobile
-* ⚡ **Backend:** Laravel & PHP
-* 📱 **Mobile:** React Native
-* 🌐 **Networking:** MikroTik, RouterOS & Network Infrastructure
-* 🐧 **Infrastructure:** Linux, Server & Cloud
-* 🔧 **Currently exploring:** DevOps, Cloud Infrastructure & Network Automation
-* 🤝 **Open to:** Interesting Web, Mobile & Networking projects
+*  **Education:** Network Engineering / Teknik Jaringan
+*  **Development:** Full-Stack Web & Mobile
+*  **Backend:** Laravel & PHP
+*  **Mobile:** React Native
+*  **Networking:** MikroTik, RouterOS & Network Infrastructure
+*  **Infrastructure:** Linux, Server & Cloud
+*  **Currently exploring:** DevOps, Cloud Infrastructure & Network Automation
+*  **Open to:** Interesting Web, Mobile & Networking projects
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
-### 💻 Development
+###  Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,react,reactnative,python" />
@@ -58,6 +58,9 @@ My interests sit at the intersection of **software development, networking, infr
 
 ### 🌐 Networking & Infrastructure
 
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql" />
+</p>
 
 **Networking**
 
@@ -65,7 +68,7 @@ My interests sit at the intersection of **software development, networking, infr
 
 ---
 
-## 🚀 What I Build
+##  What I Build
 
 ```text
 ┌─────────────────────────────────────────────────────┐
