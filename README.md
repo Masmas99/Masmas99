@@ -73,16 +73,16 @@ My interests sit at the intersection of **software development, networking, infr
 ```text
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
-│   WEB APPLICATIONS                               │
+│   WEB APPLICATIONS                                  │
 │   Laravel · PHP · MySQL · REST API                  │
 │                                                     │
-│   MOBILE APPLICATIONS                            │
+│   MOBILE APPLICATIONS                               │
 │   React Native · Android                            │
 │                                                     │
-│   NETWORK INFRASTRUCTURE                         │
+│   NETWORK INFRASTRUCTURE                            │
 │   MikroTik · RouterOS · TCP/IP                      │
 │                                                     │
-│   SERVER & CLOUD                                 │
+│   SERVER & CLOUD                                    │
 │   Linux · VPS · Deployment · Infrastructure         │
 │                                                     │
 └─────────────────────────────────────────────────────┘
