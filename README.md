@@ -6,7 +6,7 @@
   <img src="fot.png" width="100%" alt="Masmas99 Header Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Masmas 👋</h1>
+<h1 align="center">Hi, I'm Masmas </h1>
 
 <p align="center">
   <strong>Network Engineering Student · Full-Stack Developer · Infrastructure Enthusiast</strong>
@@ -27,7 +27,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 <img align="right" src="fotooo.jpg" width="170" alt="Masmas Profile"/>
 
@@ -56,7 +56,7 @@ My interests sit at the intersection of **software development, networking, infr
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,react,reactnative,python" />
 </p>
 
-### 🌐 Networking & Infrastructure
+###  Networking & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql" />
@@ -73,16 +73,16 @@ My interests sit at the intersection of **software development, networking, infr
 ```text
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
-│   🌐 WEB APPLICATIONS                               │
+│   WEB APPLICATIONS                               │
 │   Laravel · PHP · MySQL · REST API                  │
 │                                                     │
-│   📱 MOBILE APPLICATIONS                            │
+│   MOBILE APPLICATIONS                            │
 │   React Native · Android                            │
 │                                                     │
-│   🌐 NETWORK INFRASTRUCTURE                         │
+│   NETWORK INFRASTRUCTURE                         │
 │   MikroTik · RouterOS · TCP/IP                      │
 │                                                     │
-│   ☁️ SERVER & CLOUD                                 │
+│   SERVER & CLOUD                                 │
 │   Linux · VPS · Deployment · Infrastructure         │
 │                                                     │
 └─────────────────────────────────────────────────────┘
@@ -90,9 +90,9 @@ My interests sit at the intersection of **software development, networking, infr
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
-### 🍜 School Food Ordering System
+### School Food Ordering System
 
 A school-based food ordering platform designed to reduce queues at the school canteen.
 
@@ -100,7 +100,7 @@ A school-based food ordering platform designed to reduce queues at the school ca
 
 ---
 
-### 📡 Network Monitoring Dashboard
+### Network Monitoring Dashboard
 
 Monitoring and management system for network infrastructure and devices.
 
@@ -108,7 +108,7 @@ Monitoring and management system for network infrastructure and devices.
 
 ---
 
-### 📱 School Attendance System
+### School Attendance System
 
 Digital attendance platform with web administration and mobile attendance features.
 
@@ -116,7 +116,7 @@ Digital attendance platform with web administration and mobile attendance featur
 
 ---
 
-### 💳 QRIS Food Ordering System
+### QRIS Food Ordering System
 
 Food ordering system with QRIS payment integration and real-time payment confirmation.
 
@@ -124,7 +124,7 @@ Food ordering system with QRIS payment integration and real-time payment confirm
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masmas99&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak"/>
@@ -137,7 +137,7 @@ Food ordering system with QRIS payment integration and real-time payment confirm
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masmas99&theme=github-dark&hide_border=true" width="95%" alt="Contribution Graph"/>
@@ -145,7 +145,7 @@ Food ordering system with QRIS payment integration and real-time payment confirm
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```text
 [✓] Full-Stack Web Development
@@ -160,7 +160,7 @@ Food ordering system with QRIS payment integration and real-time payment confirm
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:masamasmas88@gmail.com">
