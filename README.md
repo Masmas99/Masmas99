@@ -147,6 +147,25 @@ Food ordering system with QRIS payment integration and real-time payment confirm
   />
 </p>
 
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Masmas99&bg_color=1f1f1f&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true&theme=github-dark"
+    alt="Contribution Graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masmas99&theme=github_dark"
+    alt="Profile Summary"
+  />
+</p>
+
+---
 
 ## Current Focus
 
