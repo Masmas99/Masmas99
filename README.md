@@ -6,7 +6,7 @@
   <img src="fot.png" width="100%" alt="Masmas99 Header Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Masmas 👋</h1>
+<h1 align="center">Hi, I'm Masmas</h1>
 
 <p align="center">
   <strong>Network Engineering Student · Full-Stack Developer · Infrastructure Enthusiast</strong>
@@ -35,28 +35,28 @@ I'm a **Network Engineering student** who enjoys turning ideas into real-world d
 
 My interests sit at the intersection of **software development, networking, infrastructure, and automation**.
 
-* 🎓 **Education:** Network Engineering / Teknik Jaringan
-* 💻 **Development:** Full-Stack Web & Mobile
-* ⚡ **Backend:** Laravel & PHP
-* 📱 **Mobile:** React Native
-* 🌐 **Networking:** MikroTik, RouterOS & Network Infrastructure
-* 🐧 **Infrastructure:** Linux, Server & Cloud
-* 🚀 **Currently exploring:** DevOps, Cloud Infrastructure & Network Automation
-* 🤝 **Open to:** Interesting Web, Mobile & Networking projects
+*  **Education:** Network Engineering / Teknik Jaringan
+*  **Development:** Full-Stack Web & Mobile
+*  **Backend:** Laravel & PHP
+*  **Mobile:** React Native
+*  **Networking:** MikroTik, RouterOS & Network Infrastructure
+*  **Infrastructure:** Linux, Server & Cloud
+*  **Currently exploring:** DevOps, Cloud Infrastructure & Network Automation
+*  **Open to:** Interesting Web, Mobile & Networking projects
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-### 💻 Development
+### Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,react,python" alt="Development Skills"/>
 </p>
 
-### 🌐 Networking & Infrastructure
+### Networking & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,mysql" alt="Infrastructure Skills"/>
@@ -90,9 +90,9 @@ My interests sit at the intersection of **software development, networking, infr
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🍜 School Food Ordering System
+### School Food Ordering System
 
 A school-based food ordering platform designed to reduce queues at the school canteen.
 
@@ -100,7 +100,7 @@ A school-based food ordering platform designed to reduce queues at the school ca
 
 ---
 
-### 📡 Network Monitoring Dashboard
+### Network Monitoring Dashboard
 
 Monitoring and management system for network infrastructure and devices.
 
@@ -108,7 +108,7 @@ Monitoring and management system for network infrastructure and devices.
 
 ---
 
-### 📱 School Attendance System
+### School Attendance System
 
 Digital attendance platform with web administration and mobile attendance features.
 
@@ -116,7 +116,7 @@ Digital attendance platform with web administration and mobile attendance featur
 
 ---
 
-### 💳 QRIS Food Ordering System
+### QRIS Food Ordering System
 
 Food ordering system with QRIS payment integration and real-time payment confirmation.
 
@@ -124,7 +124,7 @@ Food ordering system with QRIS payment integration and real-time payment confirm
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img
@@ -149,29 +149,9 @@ Food ordering system with QRIS payment integration and real-time payment confirm
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Masmas99/Masmas99/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Masmas99/Masmas99/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Masmas99/Masmas99/output/github-contribution-grid-snake.svg"
-      width="95%"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```text
 [✓] Full-Stack Web Development
@@ -186,7 +166,7 @@ Food ordering system with QRIS payment integration and real-time payment confirm
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:masamasmas88@gmail.com">
