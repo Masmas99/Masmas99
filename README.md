@@ -85,42 +85,6 @@ My interests sit at the intersection of **software development, networking, infr
 └─────────────────────────────────────────────────────┘
 ```
 
----
-
-## Featured Projects
-
-### School Food Ordering System
-
-A school-based food ordering platform designed to reduce queues at the school canteen.
-
-**Stack:** `Laravel` · `MySQL` · `Bootstrap`
-
----
-
-### Network Monitoring Dashboard
-
-Monitoring and management system for network infrastructure and devices.
-
-**Stack:** `Laravel` · `PHP` · `MySQL` · `MikroTik` · `RouterOS`
-
----
-
-### School Attendance System
-
-Digital attendance platform with web administration and mobile attendance features.
-
-**Stack:** `Laravel` · `MySQL` · `React Native`
-
----
-
-### QRIS Food Ordering System
-
-Food ordering system with QRIS payment integration and real-time payment confirmation.
-
-**Stack:** `PHP Native` · `MySQL` · `QRIS` · `Webhook` · `WhatsApp`
-
----
-
 ## GitHub Statistics
 
 <p align="center">
