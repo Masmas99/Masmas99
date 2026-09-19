@@ -31,8 +31,7 @@ My interests sit at the intersection of **software development, networking, infr
 *  **Education:** Network Engineering / Teknik Jaringan
 *  **Development:** Full-Stack Web & Mobile
 *  **Backend:** Laravel & PHP
-*  **Mobile:** React Native
-*  **Networking:** MikroTik, RouterOS & Network Infrastructure
+*  **Networking:** MikroTik, Cisco, RouterOS & Network Infrastructure
 *  **Infrastructure:** Linux, Server & Cloud
 *  **Currently exploring:** DevOps, Cloud Infrastructure & Network Automation
 *  **Open to:** Interesting Web, Mobile & Networking projects
