@@ -34,7 +34,7 @@ My interests sit at the intersection of **software development, networking, infr
 *  **Networking:** MikroTik, Cisco, RouterOS & Network Infrastructure
 *  **Infrastructure:** Linux, Server & Cloud
 *  **Currently exploring:** DevOps, Cloud Infrastructure & Network Automation
-*  **Open to:** Interesting Web, Mobile & Networking projects
+*  **Open to:** Interesting Web, Networking projects
 
 <br clear="right"/>
 
