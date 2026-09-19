@@ -66,24 +66,7 @@ My interests sit at the intersection of **software development, networking, infr
 
 `MikroTik` · `RouterOS` · `TCP/IP` · `VLAN` · `Routing` · `Network Infrastructure`
 
----
 
-## What I Build
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   WEB APPLICATIONS                                  │
-│   Laravel · PHP · MySQL · REST API                  │
-│                                                     │
-│   NETWORK INFRASTRUCTURE                            │
-│   MikroTik · RouterOS · TCP/IP                      │
-│                                                     │
-│   SERVER & CLOUD                                    │
-│   Linux · VPS · Deployment · Infrastructure         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
 
 ## GitHub Statistics
 
