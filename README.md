@@ -1,11 +1,6 @@
 <!-- =========================
      HEADER
 ========================= -->
-
-<p align="center">
-  <img src="fot.png" width="100%" alt="Masmas99 Header Banner"/>
-</p>
-
 <h1 align="center">Hi, I'm Masmas</h1>
 
 <p align="center">
@@ -28,8 +23,6 @@
 ---
 
 ## About Me
-
-<img align="right" src="fotooo.jpg" width="170" alt="Masmas Profile"/>
 
 I'm a **Network Engineering student** who enjoys turning ideas into real-world digital solutions.
 
@@ -91,20 +84,6 @@ My interests sit at the intersection of **software development, networking, infr
   />
 </p>
 
----
-
-## Current Focus
-
-```text
-[✓] Full-Stack Web Development
-[✓] Laravel & PHP
-[✓] React Native
-[✓] Network Engineering
-[✓] MikroTik & RouterOS
-[→] Linux Server Administration
-[→] Cloud Infrastructure
-[→] DevOps & Automation
-```
 
 ---
 
