@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Building modern web applications, mobile apps, and network infrastructure.
+  Building modern web applications, network infrastructure.
 </p>
 
 <p align="center">
