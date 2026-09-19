@@ -52,7 +52,7 @@ My interests sit at the intersection of **software development, networking, infr
 ### Networking & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,nginx" alt="Infrastructure Skills"/>
+  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,mysql" alt="Infrastructure Skills"/>
 </p>
 
 **Networking**
