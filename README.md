@@ -35,9 +35,13 @@
 
 ## About Me
 
-<table>
-<tr>
-<td valign="top" width="65%">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Masmas99/Masmas99/main/daftpunktocat-guy.gif"
+    alt="Daft Punktocat"
+    width="220"
+  />
+</p>
 
 I'm a Network Engineering student who enjoys turning ideas into real-world digital solutions.
 
@@ -50,19 +54,6 @@ My interests sit at the intersection of software development, networking, infras
 - **Infrastructure:** Linux, servers, and cloud technologies
 - **Currently exploring:** DevOps, cloud infrastructure, and network automation
 - **Open to:** Interesting web development and networking projects
-
-</td>
-<td valign="top" width="35%" align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Masmas99/Masmas99/main/daftpunktocat-guy.gif"
-  alt="Daft Punktocat"
-  width="220"
-/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -98,7 +89,7 @@ My interests sit at the intersection of software development, networking, infras
 
 ### Networking
 
-`MikroTik` · `RouterOS` · `Cisco` · `TCP/IP` · `VLAN` · `Routing` · `Network Infrastructure`
+MikroTik · RouterOS · Cisco · TCP/IP · VLAN · Routing · Network Infrastructure
 
 ---
 
