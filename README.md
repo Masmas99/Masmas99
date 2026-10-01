@@ -21,9 +21,18 @@
 </p>
 
 <p align="center">
-  <a href="mailto:masamasmas88@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/Masmas99">GitHub</a>
+  <a href="mailto:masamasmas88@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+  <a href="https://github.com/Masmas99">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 </p>
 
 ---
@@ -77,34 +86,6 @@ My interests sit at the intersection of software development, networking, infras
 ### Networking
 
 `MikroTik` · `RouterOS` · `Cisco` · `TCP/IP` · `VLAN` · `Routing` · `Network Infrastructure`
-
----
-
-## Featured Projects
-
-### Project One
-
-Short description of the project and the problem it solves.
-
-- **Technology:** Laravel, Vue, MySQL
-- **Features:** Authentication, dashboard, and REST API
-- **Repository:** [View Project](https://github.com/Masmas99)
-
-### Project Two
-
-Short description of another project that demonstrates your technical skills.
-
-- **Technology:** PHP, JavaScript, and MySQL
-- **Features:** CRUD system, validation, and responsive interface
-- **Repository:** [View Project](https://github.com/Masmas99)
-
-### Project Three
-
-Short description of a networking, infrastructure, or automation project.
-
-- **Technology:** Linux, MikroTik, RouterOS, and networking tools
-- **Features:** Network configuration, monitoring, or automation
-- **Repository:** [View Project](https://github.com/Masmas99)
 
 ---
 
@@ -170,9 +151,20 @@ Short description of a networking, infrastructure, or automation project.
 
 ## Connect With Me
 
-- **Email:** [masamasmas88@gmail.com](mailto:masamasmas88@gmail.com)
-- **GitHub:** [github.com/Masmas99](https://github.com/Masmas99)
-
+<p align="center">
+  <a href="mailto:masamasmas88@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+  <a href="https://github.com/Masmas99">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
 <p align="center">
   <i>Build. Break. Learn. Improve.</i>
 </p>
