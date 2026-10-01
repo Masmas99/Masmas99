@@ -44,7 +44,7 @@ I'm a Network Engineering student who enjoys turning ideas into real-world digit
 My interests sit at the intersection of software development, networking, infrastructure, and automation.
 
 - **Education:** Network Engineering / Teknik Jaringan
-- **Development:** Full-Stack Web and Mobile Development
+- **Development:** Full-Stack Web 
 - **Backend:** Laravel and PHP
 - **Networking:** MikroTik, Cisco, RouterOS, TCP/IP, and network infrastructure
 - **Infrastructure:** Linux, servers, and cloud technologies
