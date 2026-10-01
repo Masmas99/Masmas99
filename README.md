@@ -1,6 +1,7 @@
 <!-- =========================
      HEADER
 ========================= -->
+
 <h1 align="center">Hi, I'm Masmas</h1>
 
 <p align="center">
@@ -8,15 +9,21 @@
 </p>
 
 <p align="center">
-  Building modern web applications, network infrastructure.
+  Building modern web applications, network infrastructure, and automation solutions.
 </p>
 
 <p align="center">
   <a href="mailto:masamasmas88@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img
+      src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
   <a href="https://github.com/Masmas99">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
@@ -24,19 +31,17 @@
 
 ## About Me
 
-I'm a **Network Engineering student** who enjoys turning ideas into real-world digital solutions.
+I'm a Network Engineering student who enjoys turning ideas into real-world digital solutions.
 
-My interests sit at the intersection of **software development, networking, infrastructure, and automation**.
+My interests sit at the intersection of software development, networking, infrastructure, and automation.
 
-*  **Education:** Network Engineering / Teknik Jaringan
-*  **Development:** Full-Stack Web & Mobile
-*  **Backend:** Laravel & PHP
-*  **Networking:** MikroTik, Cisco, RouterOS & Network Infrastructure
-*  **Infrastructure:** Linux, Server & Cloud
-*  **Currently exploring:** DevOps, Cloud Infrastructure & Network Automation
-*  **Open to:** Interesting Web, Networking projects
-
-<br clear="right"/>
+- **Education:** Network Engineering / Teknik Jaringan
+- **Development:** Full-Stack Web and Mobile Development
+- **Backend:** Laravel and PHP
+- **Networking:** MikroTik, Cisco, RouterOS, TCP/IP, and network infrastructure
+- **Infrastructure:** Linux, servers, and cloud technologies
+- **Currently exploring:** DevOps, cloud infrastructure, and network automation
+- **Open to:** Interesting web development and networking projects
 
 ---
 
@@ -45,51 +50,71 @@ My interests sit at the intersection of **software development, networking, infr
 ### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,react,nextjs,vue,python" alt="Development Skills"/>
+  <img
+    src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,react,nextjs,vue,python"
+    alt="Development Skills"
+  />
 </p>
 
-### Networking & Infrastructure
+### Infrastructure and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,mysql" alt="Infrastructure Skills"/>
+  <img
+    src="https://skillicons.dev/icons?i=linux,nginx,git,github,mysql,docker"
+    alt="Infrastructure and Tools"
+  />
 </p>
 
-**Networking**
+### Networking
 
-`MikroTik` · `RouterOS` · `TCP/IP` · `VLAN` · `Routing` · `Network Infrastructure`
+`MikroTik` · `RouterOS` · `Cisco` · `TCP/IP` · `VLAN` · `Routing` · `Network Infrastructure`
 
-
+---
 
 ## GitHub Statistics
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=Masmas99&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Masmas99&theme=github-dark-blue&hide_border=true"
     height="165"
     alt="GitHub Streak"
-  />
-  <img
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=Masmas99&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    height="165"
-    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=github_dark&hide_border=true"
     height="180"
     alt="Top Languages"
   />
 </p>
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masmas99&theme=github_dark)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masmas99&theme=github_dark)
+## Profile Summary
 
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masmas99&theme=github_dark)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masmas99&theme=github_dark"
+    alt="Profile Details"
+  />
+</p>
 
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masmas99&theme=github_dark)
-
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masmas99&theme=github_dark"
+    height="180"
+    alt="Top Languages by Repository"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masmas99&theme=github_dark"
+    height="180"
+    alt="Top Languages by Commit"
+  />
+</p>
 
 ---
 
@@ -97,10 +122,16 @@ My interests sit at the intersection of **software development, networking, infr
 
 <p align="center">
   <a href="mailto:masamasmas88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
   <a href="https://github.com/Masmas99">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
@@ -109,5 +140,5 @@ My interests sit at the intersection of **software development, networking, infr
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  Thanks for visiting my profile.
 </p>
