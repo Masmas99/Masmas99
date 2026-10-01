@@ -60,7 +60,7 @@ My interests sit at the intersection of software development, networking, infras
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=linux,nginx,git,github,mysql,docker"
+    src="https://skillicons.dev/icons?i=linux,nginx,git,github,mysql,"
     alt="Infrastructure and Tools"
   />
 </p>
