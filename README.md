@@ -39,17 +39,34 @@
 
 ## About Me
 
+<table>
+  <tr>
+    <td valign="top" width="65%">
+
 I'm a Network Engineering student who enjoys turning ideas into real-world digital solutions.
 
 My interests sit at the intersection of software development, networking, infrastructure, and automation.
 
 - **Education:** Network Engineering / Teknik Jaringan
-- **Development:** Full-Stack Web 
+- **Development:** Full-Stack Web
 - **Backend:** Laravel and PHP
 - **Networking:** MikroTik, Cisco, RouterOS, TCP/IP, and network infrastructure
 - **Infrastructure:** Linux, servers, and cloud technologies
 - **Currently exploring:** DevOps, cloud infrastructure, and network automation
 - **Open to:** Interesting web development and networking projects
+
+    </td>
+    <td valign="top" width="35%" align="right">
+
+<img
+  src="https://raw.githubusercontent.com/Masmas99/Masmas99/main/daftpunktocat-guy.gif"
+  alt="Daft Punktocat"
+  width="220"
+/>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -165,6 +182,7 @@ My interests sit at the intersection of software development, networking, infras
     />
   </a>
 </p>
+
 <p align="center">
   <i>Build. Break. Learn. Improve.</i>
 </p>
