@@ -2,6 +2,14 @@
      HEADER
 ========================= -->
 
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    alt="Coding animation"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi, I'm Masmas</h1>
 
 <p align="center">
@@ -13,18 +21,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:masamasmas88@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-  <a href="https://github.com/Masmas99">
-    <img
-      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+  <a href="mailto:masamasmas88@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/Masmas99">GitHub</a>
 </p>
 
 ---
@@ -45,6 +44,16 @@ My interests sit at the intersection of software development, networking, infras
 
 ---
 
+## Current Focus
+
+- Building full-stack web applications
+- Learning DevOps and cloud infrastructure
+- Improving network automation skills
+- Developing applications with Laravel and Vue
+- Managing Linux servers and database systems
+
+---
+
 ## Tech Stack
 
 ### Development
@@ -60,7 +69,7 @@ My interests sit at the intersection of software development, networking, infras
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=linux,nginx,git,github,mysql,"
+    src="https://skillicons.dev/icons?i=linux,nginx,git,github,mysql,docker"
     alt="Infrastructure and Tools"
   />
 </p>
@@ -71,11 +80,39 @@ My interests sit at the intersection of software development, networking, infras
 
 ---
 
+## Featured Projects
+
+### Project One
+
+Short description of the project and the problem it solves.
+
+- **Technology:** Laravel, Vue, MySQL
+- **Features:** Authentication, dashboard, and REST API
+- **Repository:** [View Project](https://github.com/Masmas99)
+
+### Project Two
+
+Short description of another project that demonstrates your technical skills.
+
+- **Technology:** PHP, JavaScript, and MySQL
+- **Features:** CRUD system, validation, and responsive interface
+- **Repository:** [View Project](https://github.com/Masmas99)
+
+### Project Three
+
+Short description of a networking, infrastructure, or automation project.
+
+- **Technology:** Linux, MikroTik, RouterOS, and networking tools
+- **Features:** Network configuration, monitoring, or automation
+- **Repository:** [View Project](https://github.com/Masmas99)
+
+---
+
 ## GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Masmas99&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Masmas99&show_icons=false&theme=github_dark&hide_border=true&count_private=true"
     height="165"
     alt="GitHub Statistics"
   />
@@ -93,6 +130,8 @@ My interests sit at the intersection of software development, networking, infras
     alt="Top Languages"
   />
 </p>
+
+---
 
 ## Profile Summary
 
@@ -118,25 +157,24 @@ My interests sit at the intersection of software development, networking, infras
 
 ---
 
+## Experience and Contributions
+
+- Built web applications using Laravel and PHP
+- Developed responsive interfaces with JavaScript and Vue
+- Configured network infrastructure using MikroTik and RouterOS
+- Managed Linux servers and database systems
+- Used Git and GitHub for version control and collaboration
+- Explored automation for software and network infrastructure
+
+---
+
 ## Connect With Me
 
-<p align="center">
-  <a href="mailto:masamasmas88@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-  <a href="https://github.com/Masmas99">
-    <img
-      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
+- **Email:** [masamasmas88@gmail.com](mailto:masamasmas88@gmail.com)
+- **GitHub:** [github.com/Masmas99](https://github.com/Masmas99)
 
 <p align="center">
-  <i>"Build. Break. Learn. Improve."</i>
+  <i>Build. Break. Learn. Improve.</i>
 </p>
 
 <p align="center">
