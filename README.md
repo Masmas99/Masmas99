@@ -1,7 +1,3 @@
-<!-- =========================
-     HEADER
-========================= -->
-
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
@@ -40,8 +36,8 @@
 ## About Me
 
 <table>
-  <tr>
-    <td valign="top" width="65%">
+<tr>
+<td valign="top" width="65%">
 
 I'm a Network Engineering student who enjoys turning ideas into real-world digital solutions.
 
@@ -55,8 +51,8 @@ My interests sit at the intersection of software development, networking, infras
 - **Currently exploring:** DevOps, cloud infrastructure, and network automation
 - **Open to:** Interesting web development and networking projects
 
-    </td>
-    <td valign="top" width="35%" align="right">
+</td>
+<td valign="top" width="35%" align="center">
 
 <img
   src="https://raw.githubusercontent.com/Masmas99/Masmas99/main/daftpunktocat-guy.gif"
@@ -64,8 +60,8 @@ My interests sit at the intersection of software development, networking, infras
   width="220"
 />
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -95,7 +91,7 @@ My interests sit at the intersection of software development, networking, infras
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=linux,nginx,git,github,mysql,docker"
+    src="https://skillicons.dev/icons?i=linux,nginx,git,github,mysql"
     alt="Infrastructure and Tools"
   />
 </p>
