@@ -6,10 +6,10 @@
   />
 </p>
 
-<h1 align="center">Hi, I'm Masmas</h1>
+<h1 align="center">Hi, I'm Mashudi</h1>
 
 <p align="center">
-  <strong>Network Engineering Student · Full-Stack Developer · Infrastructure Enthusiast</strong>
+  <strong>Network Engineering Student · Full-Stack Developer</strong>
 </p>
 
 <p align="center">
