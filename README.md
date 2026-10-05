@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="guf.gif"
+    src="https://raw.githubusercontent.com/Masmas99/Masmas99/main/guf.gif"
     alt="Coding animation"
     width="100%"
   />
