@@ -73,7 +73,7 @@ My interests sit at the intersection of software development, networking, infras
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,react,nextjs,vue,python"
+    src="https://skillicons.dev/icons?i=php,laravel,js,three.js,html,css,bootstrap,react,nextjs,vue,python"
     alt="Development Skills"
   />
 </p>
