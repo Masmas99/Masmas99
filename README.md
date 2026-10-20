@@ -97,11 +97,6 @@ MikroTik · RouterOS · Cisco · TCP/IP · VLAN · Routing · Network Infrastruc
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Masmas99&show_icons=false&theme=github_dark&hide_border=true&count_private=true"
-    height="165"
-    alt="GitHub Statistics"
-  />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Masmas99&theme=github-dark-blue&hide_border=true"
     height="165"
     alt="GitHub Streak"
