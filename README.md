@@ -101,15 +101,13 @@ MikroTik · RouterOS · Cisco · TCP/IP · VLAN · Routing · Network Infrastruc
     height="165"
     alt="GitHub Streak"
   />
-</p>
-
-<p align="center">
-  <img
+   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masmas99&layout=compact&theme=github_dark&hide_border=true"
     height="180"
     alt="Top Languages"
   />
 </p>
+
 
 ---
 
